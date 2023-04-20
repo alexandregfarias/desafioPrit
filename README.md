@@ -1,5 +1,3 @@
-# Informações da Aplicaç
-
 * Versão do Ruby:
   3.1.2 - Patch Level 20
 
