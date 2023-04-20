@@ -1,0 +1,16 @@
+<p style="color: green"><%= notice %></p>
+
+<h1>Eventos</h1>
+
+<div id="events">
+  <% @events.each do |event| %>
+    <%= render event %>
+    <p>
+      <%= link_to "Ver Evento", event %>
+    </p>
+  <% end %>
+</div>
+
+<%= link_to "Novo Evento", new_event_path %> <br><br>
+<%= link_to "Sair da Conta", destroy_user_session_path, method: :delete, style: "color: #FF00FF;" %>
+
