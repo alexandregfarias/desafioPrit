@@ -1,7 +1,7 @@
 # Desafio para empresa Prit
 
 * Versão do Ruby:
-  3.1.2p20
+  3.1.2 - Patch Level 20
 
 * Versão do Rails:
   7.0.4.3
