@@ -11,7 +11,7 @@
  - Date Validator - > Para validação das datas. ( Ex: Garantir que a data de término seja posterior a data de início )
 
 * BD utilizado:
- - Sqlite3 
+  Sqlite3 
 
 * Como utilizar aplicação:
  - Certifique-se de ter o Rails instalado em sua máquina
