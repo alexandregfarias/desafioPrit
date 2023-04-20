@@ -1,4 +1,4 @@
-# Desafio para empresa Prit
+# Descriç
 
 * Versão do Ruby:
   3.1.2 - Patch Level 20
